@@ -58,3 +58,5 @@ If you have questions, I'm available on [Intro](https://intro.co/sinanozdemir) :
         <img src="images/intro.png" width="300" alt="Book time with me on Intro">
     </a>
 </div>
+
+https://on24static.akamaized.net/event/44/96/44/3/rt/1/documents/resourceList1712073046223/rag.pdf
